@@ -54,7 +54,7 @@
 	</build>
 	<distributionManagement>
 		<repository>
-			<id>github</id>
+			<id>github-commons</id>
 			<name>GitHub Packages</name>
 			<url>https://maven.pkg.github.com/KalyanKumar0553/commons</url>
 		</repository>
